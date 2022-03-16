@@ -1,6 +1,5 @@
 ------------------------------------------------------------------------------------------------------------
 -- Noah Crtalic 2717249
--- Eric Okeafor 
 --
 -- At this time there are no known problems with
 -- the code that we have worked on.
